@@ -176,7 +176,9 @@ main li{
   padding: 0 0 0 5px;
 } 
 
-
+.sub_field_img{
+  width:49% ;
+}
 
 #cart_box h3 {
   margin-top: -15px;
